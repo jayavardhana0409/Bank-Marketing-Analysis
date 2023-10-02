@@ -3,7 +3,7 @@
 
 Report 
 
-![](PNg-1.png)
+[image](PNg-1.png)
  
 The line graph that can be seen above presents information regarding the number of people that deposited and the month in which they deposited. According to the graph, the number of deposits is at its highest point in May, with 925, and it is at its lowest level in December, with 100. August, with a total of 688, was our second-highest performing month, followed by July, with 627. The graph also reveals that the summertime is a time of high deposit activity, which we can observe for ourselves.
 The graph also demonstrates how stakeholders can understand which month of the year customers are more interested in subscribing to the term deposit.
